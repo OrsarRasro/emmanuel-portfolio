@@ -32,6 +32,10 @@ jQuery
 
 Bootstrap
 
+## Architecture
+
+![VPC Reference Architecture](docs/VPC_Reference_Architecture.jpg)
+
 License
 © 2023 Emmanuel Orsar. All Rights Reserved.
 
