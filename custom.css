@@ -1,0 +1,54 @@
+/* Emmanuel's Custom CSS */
+
+/* New color scheme */
+.footer-area.v2,
+.price-area.v2,
+.product-area.v2,
+.header-area.v2 {
+    background-image: linear-gradient(to right, #2E8B57 0%, #4682B4 100%);
+}
+
+/* Menu color change */
+.mainmenu-area.transparent.affix {
+    background-color: #2E8B57;
+}
+
+.mainmenu-area.v2.transparent.affix {
+    background-color: #4682B4;
+}
+
+/* Button colors */
+.bttn-4 {
+    background-color: #FF8C00;
+    border-color: #FF8C00;
+}
+
+.bttn-5 {
+    color: #2E8B57;
+    border-color: #2E8B57;
+}
+
+.bttn-5:hover {
+    background-color: #2E8B57;
+    color: white;
+}
+
+/* Feature box colors */
+.feature-box .box-icon {
+    background-color: #4682B4;
+}
+
+.box-icon.v2 {
+    background-color: #2E8B57;
+}
+
+/* Footer styling */
+.footer-bottom {
+    background-color: #2F4F4F;
+}
+
+/* Custom animations */
+.product-single-slider .item img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
